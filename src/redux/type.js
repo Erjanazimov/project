@@ -1,0 +1,10 @@
+export const SUBMIT = "SUBMIT";
+export const NEWS = "NEWS";
+export const ENTRANCE_GET = "ENTRANCE_GET";
+export const VHOD_MODAL = "VHOD_MODAL";
+export const REG_MODAL = "REG_MODAL";
+export const SEARCH_GET = "SEARCH_GET";
+export const ACCOUNTS_MODAL = "ACCOUNTS_MODAL";
+export const HANDLE_PERSONAL = "HANDLE_PERSONAL";
+export const IMAGES_GET = "IMAGES_GET";
+export const STUDENTS_POST = "STUDENTS_POST";
